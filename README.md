@@ -16,10 +16,13 @@ Certifique-se de ter as seguintes ferramentas instaladas em seu sistema:
 
 ## Configuração do Ambiente
 
+![image](https://github.com/robsonvieirajr/projeto-laravel/assets/72873403/4f526ceb-ada3-4f6c-8983-fabc4674599b)
+
+
 ### Passo 1: Clonar o Repositório
 
 ```bash
-git clone https://github.com/robsonvieirajr/projeto-laravel/tree/master)
+git clone https://github.com/robsonvieirajr/projeto-laravel
 cd seu-repositorio
 composer install
 cp .env.example .env
