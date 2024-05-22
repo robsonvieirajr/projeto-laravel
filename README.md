@@ -19,7 +19,7 @@ Certifique-se de ter as seguintes ferramentas instaladas em seu sistema:
 ### Passo 1: Clonar o Repositório
 
 ```bash
-git clone https://github.com/robsonvieirajr/projeto-laravel
+git clone https://github.com/robsonvieirajr/projeto-laravel/tree/master)
 cd seu-repositorio
 composer install
 cp .env.example .env
